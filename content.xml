@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260519123244SRNAIR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260519123244TADIOZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mini chefs</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Cooking in English</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>M. Ángeles Tejero Manzano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto Mini‑Chefs centrado en trabajar la alimentación saludable y las recetas de cocina a través de tareas lúdicas y prácticas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779180001355</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Proyecto Mini - chefs</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto Mini - chefs</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Proyecto Mini - chefs</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778501479070-1aqh34b8h</odeBlockId>
+      <blockName>Proyecto: Mini - chefs</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778501479070-1aqh34b8h</odeBlockId>
+          <odeIdeviceId>idevice-1778501479058-2ugmtmzxw</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Mini chefs</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Presentación y descripción del proyecto:<br>Este proyecto, “Mini Chefs 2026 – Cooking in English”, está dirigido al alumnado de 1º de ESOy se centra en el desarrollo de la competencia en inglés a través de la cocina y los hábitos saludables.<br>El objetivo es que el alumnado:</p>
+<p>- amplíe su vocabulario de comida, herramientas de cocina y verbos de acción,<br>- practique gramática básica (presente, imperativos y conectores de secuencia),<br>- y elabore un producto final combinado: un lapbook físico y un vídeo individual donde prepara un plato sencillo usando inglés.<br></p>
+<p>Este proyecto se ha ido diseñando a lo largo de los módulos anteriores, y se presenta ahora de forma integrada y accesible mediante eXeLearning.</p>
+<p><a href="https://view.genially.com/69d631dfa804f90b800d261d" title="Genially">https://view.genially.com/69d631dfa804f90b800d261d</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778501698510-bedesjyn2</odeBlockId>
+      <blockName>Información al alumnado sobre protección de datos y derechos digitales</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778501698510-bedesjyn2</odeBlockId>
+          <odeIdeviceId>idevice-1778501698506-tb0o344ty</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el proyecto se usan herramientas digitales (ordenadores, Ipad, cámaras, Google Docs, Canva, Padlet o similares). Todos estos usos se realizan respetando la privacidad y los derechos digitales del alumnado.</p>
+<p>Normas principales para el alumnado:</p>
+<p>- Solo se recoge la información estrictamente necesaria para realizar el proyecto (nombre, curso, id de la actividad).<br />- Los vídeos se graban con el consentimiento expreso de la familia y del alumnado.<br />- Los trabajos se pueden usar internamente en el aula, pero siempre con el permiso previo del alumnado y la familia.<br />- No se publican datos personales públicamente sin autorización.<br />- Se respeta el uso responsable y seguro de la tecnología, promoviendo el cuidado de la intimidad y el respeto por la información de los demás.</p>
+<p><a href="https://canva.link/bskfvh1vlbvr9m7" target="_blank" rel="noopener" title="">https://canva.link/bskfvh1vlbvr9m7</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778501698506-tb0o344ty","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el proyecto se usan herramientas digitales (ordenadores, Ipad, cámaras, Google Docs, Canva, Padlet o similares). Todos estos usos se realizan respetando la privacidad y los derechos digitales del alumnado.</p>\n<p>Normas principales para el alumnado:</p>\n<p>- Solo se recoge la información estrictamente necesaria para realizar el proyecto (nombre, curso, id de la actividad).<br />- Los vídeos se graban con el consentimiento expreso de la familia y del alumnado.<br />- Los trabajos se pueden usar internamente en el aula, pero siempre con el permiso previo del alumnado y la familia.<br />- No se publican datos personales públicamente sin autorización.<br />- Se respeta el uso responsable y seguro de la tecnología, promoviendo el cuidado de la intimidad y el respeto por la información de los demás.</p>\n<p><a href=\"https://canva.link/bskfvh1vlbvr9m7\" target=\"_blank\" rel=\"noopener\" title=\"\">https://canva.link/bskfvh1vlbvr9m7</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778502865442-j9nmskydk</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778502865442-j9nmskydk</odeBlockId>
+          <odeIdeviceId>idevice-1778502865409-b1man796u</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para el producto final de la Situación de Aprendizaje, propondré el alumnado crear un recetario digital o una ficha de receta interactiva en Inglés. La herramienta principal será Canva, porque permite diseñar productos visuales muy claros, con plantillas sencillas, imágenes, iconos y apartados de textos breve. Además, puede combinarse con otra herramienta o publicación, como Genially o Padlet, si se desea un formato más interactivo o mural colaborativo.</p>
+<p>El objetivo de usar esta herramienta es que el alumnado organice y presente en Inglés una receta sencilla, incorporando vocabulario de "food", diferenciando entre "contable and uncountable nouns", usando "cooking verbs" y nombrando "kitchen tools". De este modo , el producto final no se limita a escribir una receta, sino que integra el léxico y las estructuras trabajadas en la unidad de una forma funcional y significativa.</p>
+<p>He elegido Canva por su versatilidad, ya que permite elaborar desde una receta individual hasta un recetario de grupo, un póster de cocina o una infografía con ingredientes y pasos. Su interfaz es intuitiva, por lo que resulta adecuada para el alumnado de 1º ESO, que necesita apoyos visuales, instrucciones claras y tareas guiadas. La herramienta facilita además la inclusión de imágenes y plantillas, lo que ayuda a que el alumnado se centre en el contenido lingüístico y no en la parte técnica.</p>
+<p>También considero adecuado su uso por el contexto del centro y la posible disponibilidad de dispositivos, ya que Canva funciona en línea y permite trabajar por parejas o pequeños grupos ya que los alumnos en mi centro tienen dispositivos individuales (iPad) desde antes de entrar en Secundaria. Esto favorece la cooperación, la revisión entre iguales y la participación de todo el grupo, incluso cuando el nivel de competencia digital es desigual. En un curso como el de 1º ESO, donde el alumnado están consolidando hábitos de trabajo autónomo, una herramienta visual y sencilla reduce la carga cognitiva y mejora la motivación.<br>&nbsp;<br></p>
+<p>Producto final combinado:</p>
+<p>Lapbook sobre cocina saludable en inglés, que incluye:</p>
+<p>- Food groups (healthy/unhealthy).<br>- Kitchen tools.<br>- Cooking verbs.<br></p>
+<p>Recipe masterpiece (receta en inglés): vídeo individual de máximo 2 minutos en el que el alumnado prepara un plato sencillo (sándwich, smoothie, ensalada) mientras habla en inglés, usando:</p>
+<p>- Al menos 3 utensilios.<br>- Al menos 4 verbos de cocina.<br>- Y conectores de secuencia (first, then, after that, finally).<br></p>
+<p>El alumnado recibirá indicaciones claras sobre cómo realizar ambas partes del producto final y cómo integrarlas en el lapbook y en el entorno digital (Google Classroom).</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778502952700-4bkoox0gm</odeBlockId>
+      <blockName>Herramientas de curación de contenidos asociadas</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778502952700-4bkoox0gm</odeBlockId>
+          <odeIdeviceId>idevice-1778502952697-1nbda0qpp</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>- Recurso para el alumnado<br title="">Descripción: Contiene tutoriales, vídeos, explicaciones y ejemplos de vocabulario y estructuras gramaticales.<br>Uso: Orientado a la realización de tareas de lectura, listening, gramática y writing sobre cocina y healthy habits.<br>Enlace: <a href="https://mobileandroid.symbaloo.com/mix/englishteachercooking">https://mobileandroid.symbaloo.com/mix/englishteachercooking</a><br>- Recurso para el docente<br>Descripción: Contiene guion metodológico, ideas de actividades y recursos preparados para el profesorado.<br>Uso: Sirve como base de planificación para el proyecto completo.<br>Enlace: <a href="https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh">https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh</a><br><br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778503234786-ljn0reknm</odeBlockId>
+      <blockName>Línea temporal de actividades y tareas</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778503234786-ljn0reknm</odeBlockId>
+          <odeIdeviceId>idevice-1778503234780-evb56jrqh</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Actividad diseñada para ser trabajada en 5 sesiones de 45 minutos:</p>
+<p>&nbsp;<br>Sesión 1<br>Tarea principal<br>The Healthy Plate & Food Groups: clasificación de alimentos en inglés y uso de countable/uncountable nouns.<br></p>
+<p>Sesión 2<br>Tools & Gadgets: kitchen scavenger hunt para aprender vocabulario de utensilios.</p>
+<p><br>Sesión 3<br>Action in the Kitchen (Verbs): juego de mímica con cooking verbs y creación de un glosario visual.</p>
+<p><br>Sesión 4<br>The Recipe Masterpiece: redacción colaborativa de una receta en inglés con imperativos y conectores.</p>
+<p><br>Sesión 5<br>Final Review & Lapbook Assembly: montaje del lapbook y revisión final; preparación del vídeo.<br></p>
+<p><a href="https://canva.link/irzzvcz3ucc4xrh" title="">https://canva.link/irzzvcz3ucc4xrh</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778503360819-xt11e3gf7</odeBlockId>
+      <blockName>Relación con los criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778503360819-xt11e3gf7</odeBlockId>
+          <odeIdeviceId>idevice-1778503360811-rmaqykkfe</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><br></p>
+<p><a href="https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing" title="Criterios de Evaluación">https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1779090385537-3blvoxy19</odeBlockId>
+      <blockName>Instrumentos de Evaluación</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1779090385537-3blvoxy19</odeBlockId>
+          <odeIdeviceId>idevice-1779090385521-ktcd7rw4m</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&ouid=117514379316383555816&rtpof=true&sd=true" title="">https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&ouid=117514379316383555816&rtpof=true&sd=true</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+      <odeBlockId>block-1778503767150-ti0xd5dmr</odeBlockId>
+      <blockName>Cierre y objetivos globales</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcdu33p-ebg0mo1pk</odePageId>
+          <odeBlockId>block-1778503767150-ti0xd5dmr</odeBlockId>
+          <odeIdeviceId>idevice-1778503767148-q8glo545a</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>El producto final está pensado para que el alumnado de 1º de ESO utilice las tecnologías digitales no solo para aprender inglés, sino también para comunicarse, colaborar y participar en la sociedad digital.<br>Además, se busca fomentar una gestión responsable de la identidad y la huella digital del alumnado, adaptando este enfoque a la etapa de 1º de ESO.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779180448349-4ds2uh5p5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información al alumnado sobre protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información al alumnado sobre protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779180448349-4ds2uh5p5</odePageId>
+      <odeBlockId>block-1779180468184-vvjcsf5uj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779180448349-4ds2uh5p5</odePageId>
+          <odeBlockId>block-1779180468184-vvjcsf5uj</odeBlockId>
+          <odeIdeviceId>idevice-1779180468182-jm6ix0r78</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el proyecto se usan herramientas digitales (ordenadores, Ipad, cámaras, Google Docs, Canva, Padlet o similares). Todos estos usos se realizan respetando la privacidad y los derechos digitales del alumnado.</p>
+<p>Normas principales para el alumnado:</p>
+<p>- Solo se recoge la información estrictamente necesaria para realizar el proyecto (nombre, curso, id de la actividad).<br />- Los vídeos se graban con el consentimiento expreso de la familia y del alumnado.<br />- Los trabajos se pueden usar internamente en el aula, pero siempre con el permiso previo del alumnado y la familia.<br />- No se publican datos personales públicamente sin autorización.<br />- Se respeta el uso responsable y seguro de la tecnología, promoviendo el cuidado de la intimidad y el respeto por la información de los demás.</p>
+<p><a href="https://canva.link/bskfvh1vlbvr9m7" target="_blank" rel="noopener" title="">https://canva.link/bskfvh1vlbvr9m7</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779180468182-jm6ix0r78","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el proyecto se usan herramientas digitales (ordenadores, Ipad, cámaras, Google Docs, Canva, Padlet o similares). Todos estos usos se realizan respetando la privacidad y los derechos digitales del alumnado.</p>\n<p>Normas principales para el alumnado:</p>\n<p>- Solo se recoge la información estrictamente necesaria para realizar el proyecto (nombre, curso, id de la actividad).<br />- Los vídeos se graban con el consentimiento expreso de la familia y del alumnado.<br />- Los trabajos se pueden usar internamente en el aula, pero siempre con el permiso previo del alumnado y la familia.<br />- No se publican datos personales públicamente sin autorización.<br />- Se respeta el uso responsable y seguro de la tecnología, promoviendo el cuidado de la intimidad y el respeto por la información de los demás.</p>\n<p><a href=\"https://canva.link/bskfvh1vlbvr9m7\" target=\"_blank\" rel=\"noopener\" title=\"\">https://canva.link/bskfvh1vlbvr9m7</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779180681031-bmbo1ml4y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779180681031-bmbo1ml4y</odePageId>
+      <odeBlockId>block-1779180684334-vl7a1xxlb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779180681031-bmbo1ml4y</odePageId>
+          <odeBlockId>block-1779180684334-vl7a1xxlb</odeBlockId>
+          <odeIdeviceId>idevice-1779180684332-rejffpx24</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final de la Situación de Aprendizaje, propondré el alumnado crear un recetario digital o una ficha de receta interactiva en Inglés. La herramienta principal será Canva, porque permite diseñar productos visuales muy claros, con plantillas sencillas, imágenes, iconos y apartados de textos breve. Además, puede combinarse con otra herramienta o publicación, como Genially o Padlet, si se desea un formato más interactivo o mural colaborativo.</p>
+<p>El objetivo de usar esta herramienta es que el alumnado organice y presente en Inglés una receta sencilla, incorporando vocabulario de "food", diferenciando entre "contable and uncountable nouns", usando "cooking verbs" y nombrando "kitchen tools". De este modo , el producto final no se limita a escribir una receta, sino que integra el léxico y las estructuras trabajadas en la unidad de una forma funcional y significativa.</p>
+<p>He elegido Canva por su versatilidad, ya que permite elaborar desde una receta individual hasta un recetario de grupo, un póster de cocina o una infografía con ingredientes y pasos. Su interfaz es intuitiva, por lo que resulta adecuada para el alumnado de 1º ESO, que necesita apoyos visuales, instrucciones claras y tareas guiadas. La herramienta facilita además la inclusión de imágenes y plantillas, lo que ayuda a que el alumnado se centre en el contenido lingüístico y no en la parte técnica.</p>
+<p>También considero adecuado su uso por el contexto del centro y la posible disponibilidad de dispositivos, ya que Canva funciona en línea y permite trabajar por parejas o pequeños grupos ya que los alumnos en mi centro tienen dispositivos individuales (iPad) desde antes de entrar en Secundaria. Esto favorece la cooperación, la revisión entre iguales y la participación de todo el grupo, incluso cuando el nivel de competencia digital es desigual. En un curso como el de 1º ESO, donde el alumnado están consolidando hábitos de trabajo autónomo, una herramienta visual y sencilla reduce la carga cognitiva y mejora la motivación.<br /> </p>
+<p><br />Producto final combinado:</p>
+<p>Lapbook sobre cocina saludable en inglés, que incluye:</p>
+<p>- Food groups (healthy/unhealthy).<br />- Kitchen tools.<br />- Cooking verbs.</p>
+<p><br />Recipe masterpiece (receta en inglés): vídeo individual de máximo 2 minutos en el que el alumnado prepara un plato sencillo (sándwich, smoothie, ensalada) mientras habla en inglés, usando:</p>
+<p>- Al menos 3 utensilios.<br />- Al menos 4 verbos de cocina.<br />- Y conectores de secuencia (first, then, after that, finally).</p>
+<p><br />El alumnado recibirá indicaciones claras sobre cómo realizar ambas partes del producto final y cómo integrarlas en el lapbook y en el entorno digital (Google Classroom).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779180684332-rejffpx24","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el producto final de la Situación de Aprendizaje, propondré el alumnado crear un recetario digital o una ficha de receta interactiva en Inglés. La herramienta principal será Canva, porque permite diseñar productos visuales muy claros, con plantillas sencillas, imágenes, iconos y apartados de textos breve. Además, puede combinarse con otra herramienta o publicación, como Genially o Padlet, si se desea un formato más interactivo o mural colaborativo.</p>\n<p>El objetivo de usar esta herramienta es que el alumnado organice y presente en Inglés una receta sencilla, incorporando vocabulario de \"food\", diferenciando entre \"contable and uncountable nouns\", usando \"cooking verbs\" y nombrando \"kitchen tools\". De este modo , el producto final no se limita a escribir una receta, sino que integra el léxico y las estructuras trabajadas en la unidad de una forma funcional y significativa.</p>\n<p>He elegido Canva por su versatilidad, ya que permite elaborar desde una receta individual hasta un recetario de grupo, un póster de cocina o una infografía con ingredientes y pasos. Su interfaz es intuitiva, por lo que resulta adecuada para el alumnado de 1º ESO, que necesita apoyos visuales, instrucciones claras y tareas guiadas. La herramienta facilita además la inclusión de imágenes y plantillas, lo que ayuda a que el alumnado se centre en el contenido lingüístico y no en la parte técnica.</p>\n<p>También considero adecuado su uso por el contexto del centro y la posible disponibilidad de dispositivos, ya que Canva funciona en línea y permite trabajar por parejas o pequeños grupos ya que los alumnos en mi centro tienen dispositivos individuales (iPad) desde antes de entrar en Secundaria. Esto favorece la cooperación, la revisión entre iguales y la participación de todo el grupo, incluso cuando el nivel de competencia digital es desigual. En un curso como el de 1º ESO, donde el alumnado están consolidando hábitos de trabajo autónomo, una herramienta visual y sencilla reduce la carga cognitiva y mejora la motivación.<br /> </p>\n<p><br />Producto final combinado:</p>\n<p>Lapbook sobre cocina saludable en inglés, que incluye:</p>\n<p>- Food groups (healthy/unhealthy).<br />- Kitchen tools.<br />- Cooking verbs.</p>\n<p><br />Recipe masterpiece (receta en inglés): vídeo individual de máximo 2 minutos en el que el alumnado prepara un plato sencillo (sándwich, smoothie, ensalada) mientras habla en inglés, usando:</p>\n<p>- Al menos 3 utensilios.<br />- Al menos 4 verbos de cocina.<br />- Y conectores de secuencia (first, then, after that, finally).</p>\n<p><br />El alumnado recibirá indicaciones claras sobre cómo realizar ambas partes del producto final y cómo integrarlas en el lapbook y en el entorno digital (Google Classroom).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779180776648-lfbxh0kks</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenido asociadas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido asociadas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779180776648-lfbxh0kks</odePageId>
+      <odeBlockId>block-1779180779116-hu6zsr1xr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779180776648-lfbxh0kks</odePageId>
+          <odeBlockId>block-1779180779116-hu6zsr1xr</odeBlockId>
+          <odeIdeviceId>idevice-1779180779115-llsv7ymw8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Recurso para el alumnado<br />Descripción: Contiene tutoriales, vídeos, explicaciones y ejemplos de vocabulario y estructuras gramaticales.<br />Uso: Orientado a la realización de tareas de lectura, listening, gramática y writing sobre cocina y healthy habits.<br />Enlace:</p>
+<p><a href="https://mobileandroid.symbaloo.com/mix/englishteachercooking" target="_blank" rel="noopener" title="">https://mobileandroid.symbaloo.com/mix/englishteachercooking</a></p>
+<p>- Recurso para el docente<br />Descripción: Contiene guion metodológico, ideas de actividades y recursos preparados para el profesorado.<br />Uso: Sirve como base de planificación para el proyecto completo.<br />Enlace:</p>
+<p><a href="https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh" target="_blank" rel="noopener" title="">https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779180779115-llsv7ymw8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Recurso para el alumnado<br />Descripción: Contiene tutoriales, vídeos, explicaciones y ejemplos de vocabulario y estructuras gramaticales.<br />Uso: Orientado a la realización de tareas de lectura, listening, gramática y writing sobre cocina y healthy habits.<br />Enlace:</p>\n<p><a href=\"https://mobileandroid.symbaloo.com/mix/englishteachercooking\" target=\"_blank\" rel=\"noopener\" title=\"\">https://mobileandroid.symbaloo.com/mix/englishteachercooking</a></p>\n<p>- Recurso para el docente<br />Descripción: Contiene guion metodológico, ideas de actividades y recursos preparados para el profesorado.<br />Uso: Sirve como base de planificación para el proyecto completo.<br />Enlace:</p>\n<p><a href=\"https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh\" target=\"_blank\" rel=\"noopener\" title=\"\">https://padlet.com/dianafertman/cooking-up-english-imperative-form-recipes-1-hffq8k41i0a50rmh</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779180916048-ep58eldg4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal de actividades y tareas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779180916048-ep58eldg4</odePageId>
+      <odeBlockId>block-1779180917743-ayf1w4n8d</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779180916048-ep58eldg4</odePageId>
+          <odeBlockId>block-1779180917743-ayf1w4n8d</odeBlockId>
+          <odeIdeviceId>idevice-1779180917742-e8xxdldla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad diseñada para ser trabajada en 5 sesiones de 45 minutos:</p>
+<p> <br />Sesión 1<br />Tarea principal<br />The Healthy Plate &amp; Food Groups: clasificación de alimentos en inglés y uso de countable/uncountable nouns.</p>
+<p><br />Sesión 2<br />Tools &amp; Gadgets: kitchen scavenger hunt para aprender vocabulario de utensilios.</p>
+<p><br />Sesión 3<br />Action in the Kitchen (Verbs): juego de mímica con cooking verbs y creación de un glosario visual.</p>
+<p><br />Sesión 4<br />The Recipe Masterpiece: redacción colaborativa de una receta en inglés con imperativos y conectores.</p>
+<p><br title="" />Sesión 5<br />Final Review &amp; Lapbook Assembly: montaje del lapbook y revisión final; preparación del vídeo.</p>
+<p><a href="https://canva.link/ge1ttzc3arza6am" target="_blank" rel="noopener">https://canva.link/ge1ttzc3arza6am</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779180917742-e8xxdldla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad diseñada para ser trabajada en 5 sesiones de 45 minutos:</p>\n<p> <br />Sesión 1<br />Tarea principal<br />The Healthy Plate &amp; Food Groups: clasificación de alimentos en inglés y uso de countable/uncountable nouns.</p>\n<p><br />Sesión 2<br />Tools &amp; Gadgets: kitchen scavenger hunt para aprender vocabulario de utensilios.</p>\n<p><br />Sesión 3<br />Action in the Kitchen (Verbs): juego de mímica con cooking verbs y creación de un glosario visual.</p>\n<p><br />Sesión 4<br />The Recipe Masterpiece: redacción colaborativa de una receta en inglés con imperativos y conectores.</p>\n<p><br title=\"\" />Sesión 5<br />Final Review &amp; Lapbook Assembly: montaje del lapbook y revisión final; preparación del vídeo.</p>\n<p><a href=\"https://canva.link/ge1ttzc3arza6am\" target=\"_blank\" rel=\"noopener\">https://canva.link/ge1ttzc3arza6am</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779181028014-p9o87es4b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Relación de los Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de los Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779181028014-p9o87es4b</odePageId>
+      <odeBlockId>block-1779181030382-l945fx5fn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779181028014-p9o87es4b</odePageId>
+          <odeBlockId>block-1779181030382-l945fx5fn</odeBlockId>
+          <odeIdeviceId>idevice-1779181030379-2wofosv6y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del proyecto valorará la participación activa, la comprensión de recetas sencillas, el reconocimiento de alimentos saludables, la colaboración en grupo, el uso de hábitos de higiene y seguridad, y la actitud positiva ante las actividades propuestas.</p>
+<p><a href="https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing" target="_blank" rel="noopener" title="">https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779181030379-2wofosv6y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del proyecto valorará la participación activa, la comprensión de recetas sencillas, el reconocimiento de alimentos saludables, la colaboración en grupo, el uso de hábitos de higiene y seguridad, y la actitud positiva ante las actividades propuestas.</p>\n<p><a href=\"https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">https://docs.google.com/document/d/1EXWpR54Oy9gDvxbqEICbmXGRf-91CDgUVsnQQmCVY4Y/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779181372311-h9cubcejv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779181372311-h9cubcejv</odePageId>
+      <odeBlockId>block-1779181373880-6hxvzc87k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779181372311-h9cubcejv</odePageId>
+          <odeBlockId>block-1779181373880-6hxvzc87k</odeBlockId>
+          <odeIdeviceId>idevice-1779181373877-ndjayebdw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el proyecto “Mini Chefs 2026 – Cooking in English”, el alumnado elabora un lapbook y un vídeo individual donde integra vocabulario de cocina, cooking verbs, kitchen tools, food groups, conectores de secuencia y estructura de recetas en inglés.<br />Para evaluar estas tareas de forma criterial, voy a usar dos instrumentos de evaluación distintos:</p>
+<p>Rúbrica de evaluación para el lapbook.<br />Cuestionario de autoevaluación y coevaluación en Google Forms.<br />Ambos instrumentos atienden a la vez rendimiento académico, trabajo colaborativo y uso responsable de la tecnología.</p>
+<p><a href="https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&amp;ouid=117514379316383555816&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener" title="">https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&amp;ouid=117514379316383555816&amp;rtpof=true&amp;sd=true</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779181373877-ndjayebdw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el proyecto “Mini Chefs 2026 – Cooking in English”, el alumnado elabora un lapbook y un vídeo individual donde integra vocabulario de cocina, cooking verbs, kitchen tools, food groups, conectores de secuencia y estructura de recetas en inglés.<br />Para evaluar estas tareas de forma criterial, voy a usar dos instrumentos de evaluación distintos:</p>\n<p>Rúbrica de evaluación para el lapbook.<br />Cuestionario de autoevaluación y coevaluación en Google Forms.<br />Ambos instrumentos atienden a la vez rendimiento académico, trabajo colaborativo y uso responsable de la tecnología.</p>\n<p><a href=\"https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&amp;ouid=117514379316383555816&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\" title=\"\">https://docs.google.com/document/d/1LbJIFLNWwuDkDLRYbcequleJkzqDgH74/edit?usp=sharing&amp;ouid=117514379316383555816&amp;rtpof=true&amp;sd=true</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779182101874-064bg2byj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779182101874-064bg2byj</odePageId>
+      <odeBlockId>block-1779182104291-gwqy0bdiy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779182101874-064bg2byj</odePageId>
+          <odeBlockId>block-1779182104291-gwqy0bdiy</odeBlockId>
+          <odeIdeviceId>idevice-1779182104289-wvk9j682s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto ha sido diseñado para su aplicación en el aula como un Project, facilitando el desarrollo de las Competencias Clave mediante metodologías activas y el uso de herramientas digitales.</p>
+<p><strong>Tarea 1: Lapbook</strong></p>
+<p>Criterios de evaluación: </p>
+<p>- Comprensión y contenido relacionado con los alimentos</p>
+<p>- Uso del inglés en el lapbook</p>
+<p>- Organización y estructura del lapbook</p>
+<p>- Creatividad y presentación visual</p>
+<p>- Autonomía y proceso de trabajo</p>
+<p>- Colaboración y uso de normas</p>
+<p>- Revisión y corrección</p>
+<p><strong>Tarea 2: Desarrollo de las actividades</strong></p>
+<p>Criterios de Evaluación: Aplicar los conocimientos adquiridos.</p>
+<p><strong>Tarea 3: Elaboración del producto final</strong></p>
+<p>Criterios de Evaluación: Crear un producto original usando las herramientas digitales</p>
+<p><strong>Tarea 4: Vídeo </strong></p>
+<p>Criterios de evaluación: Comunicar de forma clara y estructurada la receta preparada</p>
+<p>Se emplea una metodología activa, centrada en el alumnado, fomentando el aprendizaje significativo, el trabajo colaborativo y el uso responsable de las tecnologías digitales.</p>
+<p><strong>Atención a la diversidad: </strong>Se aplican principios del Diseño Universal para el Aprendizaje.</p>
+<p>- Diferentes formas de presentar la información</p>
+<p>- Opciones para la participación del alumnado.</p>
+<p>- Diversidad de formas de expresión de aprendizaje.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779182104289-wvk9j682s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto ha sido diseñado para su aplicación en el aula como un Project, facilitando el desarrollo de las Competencias Clave mediante metodologías activas y el uso de herramientas digitales.</p>\n<p><strong>Tarea 1: Lapbook</strong></p>\n<p>Criterios de evaluación: </p>\n<p>- Comprensión y contenido relacionado con los alimentos</p>\n<p>- Uso del inglés en el lapbook</p>\n<p>- Organización y estructura del lapbook</p>\n<p>- Creatividad y presentación visual</p>\n<p>- Autonomía y proceso de trabajo</p>\n<p>- Colaboración y uso de normas</p>\n<p>- Revisión y corrección</p>\n<p><strong>Tarea 2: Desarrollo de las actividades</strong></p>\n<p>Criterios de Evaluación: Aplicar los conocimientos adquiridos.</p>\n<p><strong>Tarea 3: Elaboración del producto final</strong></p>\n<p>Criterios de Evaluación: Crear un producto original usando las herramientas digitales</p>\n<p><strong>Tarea 4: Vídeo </strong></p>\n<p>Criterios de evaluación: Comunicar de forma clara y estructurada la receta preparada</p>\n<p>Se emplea una metodología activa, centrada en el alumnado, fomentando el aprendizaje significativo, el trabajo colaborativo y el uso responsable de las tecnologías digitales.</p>\n<p><strong>Atención a la diversidad: </strong>Se aplican principios del Diseño Universal para el Aprendizaje.</p>\n<p>- Diferentes formas de presentar la información</p>\n<p>- Opciones para la participación del alumnado.</p>\n<p>- Diversidad de formas de expresión de aprendizaje.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779181165062-v3vqc7ohk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cierre y objetivos globales</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cierre y objetivos globales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779181165062-v3vqc7ohk</odePageId>
+      <odeBlockId>block-1779181167096-z1q87hkx9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779181165062-v3vqc7ohk</odePageId>
+          <odeBlockId>block-1779181167096-z1q87hkx9</odeBlockId>
+          <odeIdeviceId>idevice-1779181167095-5hailvyla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final está pensado para que el alumnado de 1º de ESO utilice las tecnologías digitales no solo para aprender inglés, sino también para comunicarse, colaborar y participar en la sociedad digital.<br />Además, se busca fomentar una gestión responsable de la identidad y la huella digital del alumnado, adaptando este enfoque a la etapa de 1º de ESO.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779181167095-5hailvyla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final está pensado para que el alumnado de 1º de ESO utilice las tecnologías digitales no solo para aprender inglés, sino también para comunicarse, colaborar y participar en la sociedad digital.<br />Además, se busca fomentar una gestión responsable de la identidad y la huella digital del alumnado, adaptando este enfoque a la etapa de 1º de ESO.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779185174115-qptkl5eb5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779185174115-qptkl5eb5</odePageId>
+      <odeBlockId>block-1779185177365-n2s5l6nyx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779185174115-qptkl5eb5</odePageId>
+          <odeBlockId>block-1779185177365-n2s5l6nyx</odeBlockId>
+          <odeIdeviceId>idevice-1779185177363-f0eljy28z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: M. Ángeles  Tejero Manzano</p>
+<p>Título del proyecto: Mini - chefs </p>
+<p>Descripción: Este proyecto, “Mini Chefs 2026 – Cooking in English”, está dirigido al alumnado de 1º de ESO y se centra en el desarrollo de la competencia en inglés a través de la cocina y los hábitos saludables.</p>
+<p>Este recurso se comparte bajo la licencia: Creative Commons BY - SA 4.0.</p>
+<p>Puedes <a href="{{context_path}}/content/resources/mini-chefs Ma.elpx" title="mini-chefs Ma.elpx" target="_blank" rel="noopener">descargar el archivo editable</a> de este proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779185177363-f0eljy28z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: M. Ángeles  Tejero Manzano</p>\n<p>Título del proyecto: Mini - chefs </p>\n<p>Descripción: Este proyecto, “Mini Chefs 2026 – Cooking in English”, está dirigido al alumnado de 1º de ESO y se centra en el desarrollo de la competencia en inglés a través de la cocina y los hábitos saludables.</p>\n<p>Este recurso se comparte bajo la licencia: Creative Commons BY - SA 4.0.</p>\n<p>Puedes <a href=\"{{context_path}}/content/resources/mini-chefs Ma.elpx\" title=\"mini-chefs Ma.elpx\" target=\"_blank\" rel=\"noopener\">descargar el archivo editable</a> de este proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
